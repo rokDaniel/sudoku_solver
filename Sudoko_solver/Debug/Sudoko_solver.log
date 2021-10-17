@@ -1,0 +1,10 @@
+﻿  maincpp.cpp
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(116,16): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(117,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(136,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(137,17): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(154,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(161,16): warning C4018: '<': signed/unsigned mismatch
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(141): warning C4172: returning address of local variable or temporary: emptyLocation
+C:\Users\DDM\Desktop\Sudoko_solver\Sudoko_solver\maincpp.cpp(145): warning C4172: returning address of local variable or temporary: emptyLocation
+  Sudoko_solver.vcxproj -> C:\Users\DDM\Desktop\Sudoko_solver\Debug\Sudoko_solver.exe
